@@ -1,0 +1,6 @@
+env/
+*.pyc
+.env
+.DS_Store
+
+el archivo debe llamarse: .gitnore
